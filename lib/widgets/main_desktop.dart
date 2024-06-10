@@ -1,8 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:my_portfolio/constants/colors.dart';
+import 'package:my_portfolio/widgets/contact_section.dart';
 
 class MainDesktop extends StatelessWidget {
-  const MainDesktop({super.key});
+
+  const MainDesktop({
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -36,9 +40,13 @@ class MainDesktop extends StatelessWidget {
               ),
               const SizedBox(height: 15),
               SizedBox(
+                // key: navbarKeys.first,
                 width: 250,
                 child: ElevatedButton(
-                    onPressed: () {}, child: const Text("Contact")),
+                    onPressed: () {
+                      
+                    },
+                    child: const Text("Contact")),
               )
             ],
           ),

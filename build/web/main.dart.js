@@ -84430,10 +84430,10 @@ r.toString
 r.f.Ig(A.anp(s,s,s,s,s,B.a3,s,A.dx("Failed to send message: "+A.j(a),s,s,s,s,s,s),s,B.mF,s,s,s,s,s,s,s,s,s))},
 $S:23}
 A.YN.prototype={
-$0(){$.Fe().lx("open",[""])},
+$0(){$.Fe().lx("open",["https://github.com/kingsman1473"])},
 $S:0}
 A.YO.prototype={
-$0(){$.Fe().lx("open",[""])},
+$0(){$.Fe().lx("open",["https://www.linkedin.com/in/vishal-chikani-07432a229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"])},
 $S:0}
 A.YP.prototype={
 $0(){$.Fe().lx("open",[""])},
